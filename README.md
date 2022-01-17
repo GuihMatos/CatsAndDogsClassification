@@ -6,7 +6,7 @@ Due to space limitations, it is not possible to make the dataset available here 
 2 - species_classification, where the files referring to the categorical classification of breeds can be found (37 in all).
 
 ## Important technique used
-In both cases, the transfer learning technique was used, which imports the pre-trained InceptionV3 network. This one showed a very good performance to the proposed problem, not being totally necessary to apply fine tuning.
+In both cases, the transfer learning technique was used, which imports the pre-trained InceptionV3 network. This one showed a very good performance in both of the proposed problems, not being necessary to apply fine tuning at species_classification.
 
 ## Results
 breeds_classification: 97.66% accuracy \
