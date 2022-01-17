@@ -9,7 +9,7 @@ Due to space limitations, it is not possible to make the dataset available here 
 In both cases, the transfer learning technique was used, which imports the pre-trained InceptionV3 network. This one showed a very good performance to the proposed problem, not being totally necessary to apply fine tuning.
 
 ## Results
-breeds_classification: 97.66% accuracy (test set) \
-species_classification: 99.83% accuracy (test set)
+breeds_classification: 97.66% accuracy \
+species_classification: 99.83% accuracy
 
 ## For more details, check the codes. Each step is commented and you can easily reproduce them
