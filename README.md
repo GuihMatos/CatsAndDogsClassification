@@ -10,6 +10,6 @@ In both cases, the transfer learning technique was used, which imports the pre-t
 
 ## Results
 breeds_classification: 92.96% accuracy (test set) \
-species_classification: 99.83% accuracy
+species_classification: 99.73% accuracy (test set)
 
 ## For more details, check the codes. Each step is commented and you can easily reproduce them
